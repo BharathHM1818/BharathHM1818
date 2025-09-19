@@ -1,5 +1,5 @@
 # 💫 About Me:
-~ I'm currently learning Python and Full Stack Development<br>~ All of my projects are available on https://github.com/BharathHM1818/BharathHM<br>~ Ask me about programming, flutter , Web Development, Cyber Security<br>~ Reach out to me at bharathshaiva985@gmail.com
+~ I'm currently learning Python and Full Stack Development<br>~ All of my projects are available on https://github.com/BharathHM1818/BharathHM<br>~ Ask me about programming, Java , Web Development, FullStcak<br>~ Reach out to me at bharathshaiva985@gmail.com
 
 
 ## 🌐 Socials:
